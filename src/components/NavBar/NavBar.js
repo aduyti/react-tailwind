@@ -8,7 +8,7 @@ const NavBar = () => {
         { id: 1, name: 'Home', path: '/home' },
         { id: 2, name: 'Shop', path: '/shop' },
         { id: 3, name: 'Support', path: '/support' },
-        { id: 4, name: 'About Us', path: '/about' },
+        { id: 4, name: 'About Us', path: '/about' }
     ];
     return (
         <nav className="bg-indigo-200">
